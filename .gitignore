@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE/Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build Output
+dist/
+build/
+out/
+.cache/
+
+# Temp Files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Webpack
+.webpack/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Static files
+/public/assets/
